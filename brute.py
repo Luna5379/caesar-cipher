@@ -28,6 +28,6 @@ for key in range(len(possibleCharacters)):
       else: 
         shiftedMessage = shiftedMessage + character
 
-  print(shiftedMessage)
+  print("key #%s: %s"%(key, shiftedMessage))
 
 print("\nNow scroll through all of the key possibilities above and find the readable plaintext message.")
