@@ -1,0 +1,3 @@
+in order to experience this project, please download and run all the python files!
+for the brute and caesar cipher files, follow the instructions presented when running the file
+for the playfair cipher, please edit the internal code and change the plaintext string to the string of your choice - then upon running the file, the encrypted message should be displayed
